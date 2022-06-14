@@ -13,7 +13,7 @@ namespace Program
 
             int idade = dataAtual - data;
 
-            Console.WriteLine("Sua idade é: " + (idade) + "anos.");
+            Console.WriteLine("Sua idade é: " + (idade) + " anos.");
         }
     }
 }
